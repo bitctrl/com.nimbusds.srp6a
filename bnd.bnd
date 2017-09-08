@@ -1,0 +1,7 @@
+-classpath: srp6a-2.0.0.jar
+Bundle-SymbolicName: com.nimbusds.srp6a
+ver: 1.0.0
+-output: ${bsn}-${ver}.jar
+Bundle-Version: ${ver}
+Export-Package: com.nimbusds.srp6.*;-split-package:=first
+
